@@ -12,7 +12,22 @@
 /* -----------------------------------------
    Shared Styles
 ----------------------------------------- */
-
+.center {
+  text-align: center;
+}
+.facebook, .twitter {
+  border: none;
+  float: right;
+}
+.nav-bar {
+  background-color: rgba(18, 60, 108, .7);
+  color: rgba(18, 60, 108, .7);
+  margin: 30px 0 30px 0;
+  padding: 0px;
+}
+.intro-icon {
+  width: 100px;
+}
 
 
 /* -----------------------------------------
