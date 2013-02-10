@@ -90,4 +90,7 @@ body {
     max-width: 40%;
     margin: 0 auto 20px;
   }
+  .featurette-divider {
+    margin: 30px 0;
+  }
 }
