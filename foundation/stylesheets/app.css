@@ -85,7 +85,21 @@ body {
   margin: 0 auto 20px;
   */
 }
-
 .footer p {
   font-size: 12px;
+}
+
+@media only screen and (max-width: 767px) {
+  .featurette-image.pull-right {
+    display: block;
+    float: none;
+    max-width: 40%;
+    margin: 0 auto 20px;
+  }
+  .featurette-image.pull-left {
+    display: block;
+    float: none;
+    max-width: 40%;
+    margin: 0 auto 20px;
+  }
 }
