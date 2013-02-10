@@ -61,7 +61,8 @@ body {
   line-height: 30px;
 }
 .featurette-image {
-  margin-top: -80px;
+  margin-top: -60px;
+  width: 400px;
 }
 .featurette-image.pull-right {
   margin-left: 40px;
