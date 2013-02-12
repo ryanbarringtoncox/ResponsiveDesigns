@@ -15,4 +15,4 @@ http://commons.wikimedia.org
 Icons are taken from the noun project:
 http://thenounproject.com/
 
-The navbars were are a little different, each built from the default framework implementation.
+The navbars differ slightly from one another.  Each is built from its default framework implementation.
