@@ -3,7 +3,7 @@ ResponsiveDesigns
 
 Two responsive web app designs using Foundation and Twitter Bootstrap.
 
-The design uses menu/header and section schema from this site:
+The design uses menu/header, smoothscroll and section schema from this site:
 http://webcoursesagency.com/#portfolio
 
 ...and makes use of featurette divs with floated images and hr separators from this one:
@@ -16,4 +16,3 @@ Icons are taken from the noun project:
 http://thenounproject.com/
 
 The navbars differ slightly from one another.  Each is built from its default framework implementation.
-Also, the foundation design uses jquery smoothscroll.
