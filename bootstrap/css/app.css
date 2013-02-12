@@ -6,7 +6,7 @@
 
 body {
   padding-bottom: 40px;
-  color: #5a5a5a;
+  color: #000000;
 }
 
 
@@ -336,6 +336,9 @@ body {
 }
 .footer p {
   font-size: 12px;
+}
+.reel-red {
+  color: #800000;
 }
 
 /*Media queries for responsive design*/

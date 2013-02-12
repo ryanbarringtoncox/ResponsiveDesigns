@@ -16,3 +16,4 @@ Icons are taken from the noun project:
 http://thenounproject.com/
 
 The navbars differ slightly from one another.  Each is built from its default framework implementation.
+Also, the foundation design uses jquery smoothscroll.
