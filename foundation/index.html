@@ -30,9 +30,9 @@
     <div class="twelve columns">
        <ul class="nav-bar reel-red">
           <li><a href="#home" rel="home">Home</a></li>
-          <li><a href="#howitworks">How it Works</a></li>
-          <li><a href="#getstarted">Get Started</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="#howitworks" class="smoothScroll">How it Works</a></li>
+          <li><a href="#getstarted" class="smoothScroll">Get Started</a></li>
+          <li><a href="#contact" class="smoothScroll">Contact</a></li>
           <li class="facebook"><a href="https://www.facebook.com" target="_blank">
 		    <img src="images/icon-top-facebook.png" width="10" height="17" alt="Facebook"></a>
 		  </li>
@@ -128,7 +128,8 @@
   </div>
 
   <!-- Included JS Files (Uncompressed) -->
-  <script src="javascripts/jquery.js"></script><script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  <script src="javascripts/jquery.js"></script>
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
   <script src="javascripts/jquery.foundation.forms.js"></script><script src="javascripts/jquery.foundation.reveal.js"></script>
   <script src="javascripts/jquery.foundation.orbit.js"></script><script src="javascripts/jquery.foundation.navigation.js"></script>
   <script src="javascripts/jquery.foundation.buttons.js"></script><script src="javascripts/jquery.foundation.tabs.js"></script>
@@ -143,13 +144,7 @@
   
   <!-- Initialize JS Plugins -->
   <script src="javascripts/app.js"></script>
-
-  
-    <script>
-    $(window).load(function(){
-      $("#featured").orbit();
-    });
-    </script> 
+  <script src="javascripts/smoothscroll.js"></script>  
   
 </body>
 </html>
