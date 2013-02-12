@@ -42,11 +42,19 @@ body {
   font-size: 16px;
   font-weight: bold;
   text-shadow: 0 -1px 0 rgba(0,0,0,.5);
+  color: white !important;
+}
+.navbar .brand:hover {
+  background-color: #800000;
 }
 
 /* Navbar links: increase padding for taller navbar */
 .navbar .nav > li > a {
   padding: 15px 20px;
+  color: white;
+}
+.navbar .nav > li > a:hover {
+  background-color: #800000;
 }
 
 /* Offset the responsive button for proper vertical alignment */
@@ -356,4 +364,10 @@ body {
   .featurette-divider {
     margin: 30px 0;
   }
+  .navbar .nav > li > a {
+    color: white !important;
+  }
+  .navbar .nav > li > a:hover {
+    background-color: #800000 !important;
+  }  
 }
