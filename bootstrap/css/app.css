@@ -291,8 +291,9 @@ body {
   box-shadow: 1px 0 0 rgba(255,255,255,0.2) inset;
 }
 .welcome {
-  font-family: 'Capriola', sans-serif;
-  font-size: 40px;
+  font-family: 'Contrail One', cursive;
+  font-size: 50px;
+  line-height: 50px;
 }
 .intro-icon {
   width: 100px;
